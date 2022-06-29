@@ -1,0 +1,312 @@
+﻿codici;to_explode;origine;destinazione
+C12P 7/06-7/14;True;C12P 7/06;C12P 7/14
+H01M 4/86-4/98;True;H01M 4/86;H01M 4/98
+H01M 8/00-8/24;True;H01M 8/00;H01M 8/24
+H01M 12/00-12/08;True;H01M 12/00;H01M 12/08
+E02B 9/00-9/06;True;E02B 9/00;E02B 9/06
+F03B 13/12-13/26;True;F03B 13/12;F03B 13/26
+F03B 15/00-15/22;True;F03B 15/00;F03B 15/22
+F03G 6/00-6/06;True;F03G 6/00;F03G 6/06
+F24T 10/00-50/00;True;F24T 10/00;F24T 50/00
+F03G 4/00-4/06;True;F03G 4/00;F03G 4/06
+F24V 30/00-50/00;True;F24V 30/00;F24V 50/00
+F01K 23/06-23/10;True;F01K 23/06;F01K 23/10
+F02G 5/00-5/04;True;F02G 5/00;F02G 5/04
+F28D 17/00-20/00;True;F28D 17/00;F28D 20/00
+F03G 5/00-5/08;True;F03G 5/00;F03G 5/08
+F16H 3/00-3/78;True;F16H 3/00;F16H 3/78
+B60L 7/10-7/22;True;B60L 7/10;B60L 7/22
+B60L 50/50-58/40;True;B60L 50/50;B60L 58/40
+B63B 1/34-1/40;True;B63B 1/34;B63B 1/40
+H01M 10/44-10/46;True;H01M 10/44;H01M 10/46
+H01L 33/00-33/64;True;H01L 33/00;H01L 33/64
+C04B 7/24-7/30;True;C04B 7/24;C04B 7/30
+C04B 18/04-18/10;True;C04B 18/04;C04B 18/10
+C08J 11/00-11/28;True;C08J 11/00;C08J 11/28
+D01F 13/00-13/04;True;D01F 13/00;D01F 13/04
+C08J 11/04-11/28;True;C08J 11/04;C08J 11/28
+C22B 7/00-7/04;True;C22B 7/00;C22B 7/04
+B01D 53/00-53/96;True;B01D 53/00;B01D 53/96
+F01N 3/00-3/38;True;F01N 3/00;F01N 3/38
+B01D 45/00-51/00;True;B01D 45/00;B01D 51/00
+A01N 25/00-65/00;True;A01N 25/00;A01N 65/00
+C10L 5/40-5/48;True;C10L 5/40;C10L 5/48
+H01M 50/00-50/171;True;H01M 50/00;H01M 50/171
+H01L 31/00-31/078;True;H01L 31/00;H01L 31/078
+H01L 51/42-51/48;True;H01L 51/42;H01L 51/48
+F16H 48/00-48/30;True;F16H 48/00;F16H 48/30
+E04B 1/74-1/80;True;E04B 1/74;E04B 1/80
+C11B 13/00-13/04;True;C11B 13/00;C11B 13/04
+E04C 2/284-2/296;True;E04C 2/284;E04C 2/296
+C10G;False;null;null
+A01H;False;null;null
+C10J;False;null;null
+B09B;False;null;null
+F03B;False;null;null
+F03C;False;null;null
+F03D;False;null;null
+F24S;False;null;null
+H02S;False;null;null
+F24T;False;null;null
+F01K;False;null;null
+B62K;False;null;null
+B61;False;null;null
+H02J;False;null;null
+G01R;False;null;null
+B65F;False;null;null
+B09C;False;null;null
+F23G;False;null;null
+C05F;False;null;null
+C02F;False;null;null
+E03F;False;null;null
+G06Q;False;null;null
+G08G;False;null;null
+G21;False;null;null
+G21B;False;null;null
+G21C;False;null;null
+G21D;False;null;null
+C10L 5/00;False;null;null
+C10B 53/02;False;null;null
+C10L 5/40;False;null;null
+C10L 1/00;False;null;null
+C10L 1/02;False;null;null
+C07C 67/00;False;null;null
+C11C 3/10;False;null;null
+C12P 7/649;False;null;null
+C12N 9/24;False;null;null
+C02F 3/28;False;null;null
+C10L 3/00;False;null;null
+C12M 1/107;False;null;null
+C12P 5/02;False;null;null
+C12N 1/13;False;null;null
+F02C 3/28;False;null;null
+C10B 53/00;False;null;null
+C10L 5/42;False;null;null
+F23G 7/00;False;null;null
+C10J 3/02;False;null;null
+F23B 90/00;False;null;null
+F23G 5/027;False;null;null
+B09B 3/00;False;null;null
+C10L 5/48;False;null;null
+F23G 5/00;False;null;null
+C21B 5/06;False;null;null
+D21C 11/00;False;null;null
+A62D 3/02;False;null;null
+C02F 11/04;False;null;null
+B01D 53/02;False;null;null
+C10L 5/46;False;null;null
+E02B 9/08;False;null;null
+B63H 19/02;False;null;null
+F03G 7/05;False;null;null
+H02K 7/18;False;null;null
+B63B 35/00;False;null;null
+E04H 12/00;False;null;null
+F03D 13/00;False;null;null
+B60K 16/00;False;null;null
+B60L 8/00;False;null;null
+B63H 13/00;False;null;null
+H01L 27/142;False;null;null
+H01G 9/20;False;null;null
+H02S 10/00;False;null;null
+H01L 27/30;False;null;null
+H01L 25/00;False;null;null
+C01B 33/02;False;null;null
+C23C 14/14;False;null;null
+C30B 29/06;False;null;null
+G05F 1/67;False;null;null
+F21L 4/00;False;null;null
+F21S 9/03;False;null;null
+H02J 7/35;False;null;null
+H01M 14/00;False;null;null
+F24D 17/00;False;null;null
+F24D 3/00;False;null;null
+F24S 90/00;False;null;null
+F03D 1/04;False;null;null
+F03G 6/00;False;null;null
+C02F 1/14;False;null;null
+F02C 1/05;False;null;null
+H01L 31/0525;False;null;null
+H02S 40/44;False;null;null
+E04D 13/00;False;null;null
+F22B 1/00;False;null;null
+F24V 30/00;False;null;null
+F25B 27/00;False;null;null
+F26B 3/00;False;null;null
+F24S 23/00;False;null;null
+G02B 7/183;False;null;null
+F24S 10/10;False;null;null
+F24F 5/00;False;null;null
+H02N 10/00;False;null;null
+F25B 30/06;False;null;null
+F24D 11/02;False;null;null
+F24D 15/04;False;null;null
+F24D 17/02;False;null;null
+F24H 4/00;False;null;null
+F25B 30/00;False;null;null
+F01K 27/00;False;null;null
+F01N 5/00;False;null;null
+F25B 27/02;False;null;null
+F01K 17/00;False;null;null
+F02C 6/18;False;null;null
+C02F 1/16;False;null;null
+D21F 5/20;False;null;null
+F22B 1/02;False;null;null
+F23G 5/46;False;null;null
+F24F 12/00;False;null;null
+F27D 17/00;False;null;null
+C10J 3/86;False;null;null
+B60K 6/00;False;null;null
+B60W 20/00;False;null;null
+H02K 29/08;False;null;null
+H02K 49/10;False;null;null
+B60L 9/00;False;null;null
+F02B 43/00;False;null;null
+F02M 21/02;False;null;null
+H02J 7/00;False;null;null
+B62D 35/00;False;null;null
+B62M 1/00;False;null;null
+B61D 17/02;False;null;null
+B63H 9/00;False;null;null
+B63H 16/00;False;null;null
+B63H 21/18;False;null;null
+B64G 1/44;False;null;null
+B60K 6/28;False;null;null
+B60W 10/26;False;null;null
+H01G 11/00;False;null;null
+H02J 3/28;False;null;null
+H02J 9/00;False;null;null
+B60L 3/00;False;null;null
+C09K 5/00;False;null;null
+F24H 7/00;False;null;null
+F28D 20/00;False;null;null
+F21K 99/00;False;null;null
+F21L 4/02;False;null;null
+H05B 33/00;False;null;null
+E04B 1/62;False;null;null
+E04C 1/40;False;null;null
+E06B 3/263;False;null;null
+E04B 2/00;False;null;null
+E04F 13/08;False;null;null
+E04B 5/00;False;null;null
+E04F 15/18;False;null;null
+E04B 7/00;False;null;null
+E04D 1/28;False;null;null
+E04B 9/00;False;null;null
+F03G 7/08;False;null;null
+B60K 6/10;False;null;null
+B60L 50/30;False;null;null
+A61L 11/00;False;null;null
+A62D 3/00;False;null;null
+G21F 9/00;False;null;null
+B03B 9/06;False;null;null
+D21B 1/08;False;null;null
+A43B 1/12;False;null;null
+B22F 8/00;False;null;null
+C09K 11/01;False;null;null
+C11B 11/00;False;null;null
+C14C 3/32;False;null;null
+C21B 3/04;False;null;null
+C25C 1/00;False;null;null
+B29B 17/00;False;null;null
+B62D 67/00;False;null;null
+C10G 1/10;False;null;null
+D01G 11/00;False;null;null
+D21C 5/02;False;null;null
+H01J 9/50;False;null;null
+H01M 6/52;False;null;null
+B01D 53/14;False;null;null
+B65G 5/00;False;null;null
+C01B 32/50;False;null;null
+E21B 41/00;False;null;null
+E21F 17/16;False;null;null
+F25J 3/02;False;null;null
+B01D 53/92;False;null;null
+F02B 75/10;False;null;null
+C21C 5/38;False;null;null
+C10B 21/18;False;null;null
+F23B 80/02;False;null;null
+F23C 9/00;False;null;null
+F23G 7/06;False;null;null
+F01N 9/00;False;null;null
+B03C 3/00;False;null;null
+C21B 7/22;False;null;null
+F27B 1/18;False;null;null
+F27B 15/12;False;null;null
+C10L 10/02;False;null;null
+F23J 7/00;False;null;null
+F23J 15/00;False;null;null
+C09K 3/22;False;null;null
+G08B 21/12;False;null;null
+B63J 4/00;False;null;null
+C05F 7/00;False;null;null
+C09K 3/32;False;null;null
+B63B 35/32;False;null;null
+E02B 15/04;False;null;null
+E03C 1/12;False;null;null
+C02F 1/00;False;null;null
+G21C 13/10;False;null;null
+A01G 23/00;False;null;null
+A01G 25/00;False;null;null
+C09K 17/00;False;null;null
+E02D 3/00;False;null;null
+E04H 1/00;False;null;null
+C10L 9/00;False;null;null
+C10L 1/19;False;null;null
+C07C 69/00;False;null;null
+C10L 1/182;False;null;null
+C12N 1/15;False;null;null
+C10L 5/44;False;null;null
+F23G 7/10;False;null;null
+C10J 3/46;False;null;null
+C02F 11/14;False;null;null
+B01D 53/04;False;null;null
+B63H 19/04;False;null;null
+H01L 25/03;False;null;null
+C23C 16/24;False;null;null
+F24D 18/00;False;null;null
+F24D 5/00;False;null;null
+F03D 9/00;False;null;null
+E04D 13/18;False;null;null
+F26B 3/28;False;null;null
+F03G 7/04;False;null;null
+F01K 23/04;False;null;null
+B60K 6/20;False;null;null
+F02M 27/02;False;null;null
+B62D 35/02;False;null;null
+B62M 3/00;False;null;null
+F28D 20/02;False;null;null
+H01L 51/50;False;null;null
+E04C 1/41;False;null;null
+E04D 3/35;False;null;null
+B60K 6/30;False;null;null
+A62D 101/00;False;null;null
+D21B 1/32;False;null;null
+A43B 21/14;False;null;null
+C22B 19/30;False;null;null
+H01J 9/52;False;null;null
+H01M 10/54;False;null;null
+B01D 53/22;False;null;null
+E21B 43/16;False;null;null
+C10L 10/06;False;null;null
+C02F 3/00;False;null;null
+C10L 1/14;False;null;null
+C12N 1/21;False;null;null
+B01D 53/047;False;null;null
+H01L 25/16;False;null;null
+F24D 11/00;False;null;null
+F03D 13/20;False;null;null
+B62M 5/00;False;null;null
+H02J 15/00;False;null;null
+E04B 1/88;False;null;null
+E04D 13/16;False;null;null
+C22B 25/06;False;null;null
+B01D 53/62;False;null;null
+C02F 9/00;False;null;null
+C12N 5/10;False;null;null
+H01L 25/18;False;null;null
+F24D 19/00;False;null;null
+B62M 6/00;False;null;null
+E04B 1/90;False;null;null
+C12N 15/00;False;null;null
+H01L 31/042;False;null;null
+B01D 53/24;False;null;null

@@ -1,11 +1,10 @@
-# %% [markdown]
-# # Make a full list of Green codes
+# Make a full list of Green codes
 
-# %% [markdown]
 # Autori: Fabio Morea, Leyla Vesnic, Andrea Bincoletto
 # Data: 20 giugno 2022
 # Versione 1.0
 # GitHub: https://github.com/areasciencepark/CodiciGreen 
+# GitLab: https://gitlab.com/fabio-morea-areasciencepark/greencodes 
 
 # %% [markdown]
 # ## load libraries
@@ -14,16 +13,14 @@
 import pandas as pd 
 import re
 
-# %% [markdown]
 # ## Load data
 # 
 
-# %%
 # reading data and selecting only the column we are interested in
 raw_data = pd.read_excel("../2IPCGreenInventoryList_2022WIPO.xlsx", dtype=str)
 raw_data = raw_data[[ "IPC"]]
 raw_data.dropna(inplace=True)
-raw_data.head(5)
+raw_data.head(6)
 
 # %%
 codes = pd.read_excel("../IPC WIPO unione.xlsx", dtype=str)
@@ -111,22 +108,11 @@ print("Done :-D")
 
 codes_list = sorted(list(set(codes_list)))
 print(len(codes_list), " codes found")
+      
 
-
-        
-
-    
-
-# %%
 print(codes_list) 
 
-# %%
-codes_list
-
-# %% [markdown]
-# # write the results to a CSV file
-
-# %%
+# write the results to a CSV file
 pd.DataFrame(codes_list).to_csv("GreenCodes.csv", index=False, header=False)
 
 
